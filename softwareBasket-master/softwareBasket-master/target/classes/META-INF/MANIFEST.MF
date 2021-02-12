@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: bootjpa
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: jayapriya.n
+Implementation-Vendor-Id: com.telusko
+Build-Jdk: 1.8.0_271
+Implementation-URL: https://spring.io/projects/spring-boot/bootjpa
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
